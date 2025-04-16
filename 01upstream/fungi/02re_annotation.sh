@@ -1,0 +1,1 @@
+java -Xmx2g -jar ~/main/software/rdp_classifier_2.14/dist/classifier.jar classify --conf 0.5 --gene fungalits_warcup --format fixrank --outputFile fungi_classified.txt ./OTU.fna --hier_outfile fungi_hire.txt 

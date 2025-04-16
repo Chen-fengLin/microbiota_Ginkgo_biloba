@@ -1,0 +1,181 @@
+sampleID	tree	sex	period	type	sexByName	typeByName	periodSex	periodSexByName
+F361P1ML	F361	F	S1	L	Female	Leaf	S1F	S1 Female
+F361P2ML	F361	F	S2	L	Female	Leaf	S2F	S2 Female
+F361P3ML	F361	F	S3	L	Female	Leaf	S3F	S3 Female
+F367P1ML	F367	F	S1	L	Female	Leaf	S1F	S1 Female
+F367P2ML	F367	F	S2	L	Female	Leaf	S2F	S2 Female
+F367P3ML	F367	F	S3	L	Female	Leaf	S3F	S3 Female
+F368P1ML	F368	F	S1	L	Female	Leaf	S1F	S1 Female
+F368P2ML	F368	F	S2	L	Female	Leaf	S2F	S2 Female
+F368P3ML	F368	F	S3	L	Female	Leaf	S3F	S3 Female
+F396P1ML	F396	F	S1	L	Female	Leaf	S1F	S1 Female
+F396P2ML	F396	F	S2	L	Female	Leaf	S2F	S2 Female
+F396P3ML	F396	F	S3	L	Female	Leaf	S3F	S3 Female
+F397P1ML	F397	F	S1	L	Female	Leaf	S1F	S1 Female
+F397P2ML	F397	F	S2	L	Female	Leaf	S2F	S2 Female
+F397P3ML	F397	F	S3	L	Female	Leaf	S3F	S3 Female
+F398P1ML	F398	F	S1	L	Female	Leaf	S1F	S1 Female
+F398P2ML	F398	F	S2	L	Female	Leaf	S2F	S2 Female
+F398P3ML	F398	F	S3	L	Female	Leaf	S3F	S3 Female
+F405P1ML	F405	F	S1	L	Female	Leaf	S1F	S1 Female
+F405P2ML	F405	F	S2	L	Female	Leaf	S2F	S2 Female
+F405P3ML	F405	F	S3	L	Female	Leaf	S3F	S3 Female
+F406P1ML	F406	F	S1	L	Female	Leaf	S1F	S1 Female
+F406P2ML	F406	F	S2	L	Female	Leaf	S2F	S2 Female
+F406P3ML	F406	F	S3	L	Female	Leaf	S3F	S3 Female
+F416P1ML	F416	F	S1	L	Female	Leaf	S1F	S1 Female
+F416P2ML	F416	F	S2	L	Female	Leaf	S2F	S2 Female
+F416P3ML	F416	F	S3	L	Female	Leaf	S3F	S3 Female
+F427P1ML	F427	F	S1	L	Female	Leaf	S1F	S1 Female
+F427P2ML	F427	F	S2	L	Female	Leaf	S2F	S2 Female
+F427P3ML	F427	F	S3	L	Female	Leaf	S3F	S3 Female
+M354P1ML	M354	M	S1	L	Male	Leaf	S1M	S1 Male
+M354P2ML	M354	M	S2	L	Male	Leaf	S2M	S2 Male
+M354P3ML	M354	M	S3	L	Male	Leaf	S3M	S3 Male
+M365P1ML	M365	M	S1	L	Male	Leaf	S1M	S1 Male
+M365P2ML	M365	M	S2	L	Male	Leaf	S2M	S2 Male
+M365P3ML	M365	M	S3	L	Male	Leaf	S3M	S3 Male
+M373P1ML	M373	M	S1	L	Male	Leaf	S1M	S1 Male
+M373P2ML	M373	M	S2	L	Male	Leaf	S2M	S2 Male
+M373P3ML	M373	M	S3	L	Male	Leaf	S3M	S3 Male
+M376P1ML	M376	M	S1	L	Male	Leaf	S1M	S1 Male
+M376P2ML	M376	M	S2	L	Male	Leaf	S2M	S2 Male
+M376P3ML	M376	M	S3	L	Male	Leaf	S3M	S3 Male
+M377P1ML	M377	M	S1	L	Male	Leaf	S1M	S1 Male
+M377P2ML	M377	M	S2	L	Male	Leaf	S2M	S2 Male
+M377P3ML	M377	M	S3	L	Male	Leaf	S3M	S3 Male
+M395P1ML	M395	M	S1	L	Male	Leaf	S1M	S1 Male
+M395P2ML	M395	M	S2	L	Male	Leaf	S2M	S2 Male
+M395P3ML	M395	M	S3	L	Male	Leaf	S3M	S3 Male
+M402P1ML	M402	M	S1	L	Male	Leaf	S1M	S1 Male
+M402P2ML	M402	M	S2	L	Male	Leaf	S2M	S2 Male
+M402P3ML	M402	M	S3	L	Male	Leaf	S3M	S3 Male
+M415P1ML	M415	M	S1	L	Male	Leaf	S1M	S1 Male
+M415P2ML	M415	M	S2	L	Male	Leaf	S2M	S2 Male
+M415P3ML	M415	M	S3	L	Male	Leaf	S3M	S3 Male
+M422P1ML	M422	M	S1	L	Male	Leaf	S1M	S1 Male
+M422P2ML	M422	M	S2	L	Male	Leaf	S2M	S2 Male
+M422P3ML	M422	M	S3	L	Male	Leaf	S3M	S3 Male
+M428P1ML	M428	M	S1	L	Male	Leaf	S1M	S1 Male
+M428P2ML	M428	M	S2	L	Male	Leaf	S2M	S2 Male
+M428P3ML	M428	M	S3	L	Male	Leaf	S3M	S3 Male
+F361P1MS	F361	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F361P2MS	F361	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F361P3MS	F361	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F367P1MS	F367	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F367P2MS	F367	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F367P3MS	F367	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F368P1MS	F368	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F368P2MS	F368	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F368P3MS	F368	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F396P1MS	F396	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F396P2MS	F396	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F396P3MS	F396	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F397P1MS	F397	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F397P2MS	F397	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F397P3MS	F397	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F398P1MS	F398	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F398P2MS	F398	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F398P3MS	F398	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F405P1MS	F405	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F405P2MS	F405	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F405P3MS	F405	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F406P1MS	F406	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F406P2MS	F406	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F406P3MS	F406	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F416P1MS	F416	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F416P2MS	F416	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F416P3MS	F416	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+F427P1MS	F427	F	S1	S	Female	Rhizosphere soil	S1F	S1 Female
+F427P2MS	F427	F	S2	S	Female	Rhizosphere soil	S2F	S2 Female
+F427P3MS	F427	F	S3	S	Female	Rhizosphere soil	S3F	S3 Female
+M354P1MS	M354	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M354P2MS	M354	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M354P3MS	M354	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M365P1MS	M365	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M365P2MS	M365	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M365P3MS	M365	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M373P1MS	M373	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M373P2MS	M373	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M373P3MS	M373	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M376P1MS	M376	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M376P2MS	M376	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M376P3MS	M376	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M377P1MS	M377	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M377P2MS	M377	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M377P3MS	M377	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M395P1MS	M395	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M395P2MS	M395	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M395P3MS	M395	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M402P1MS	M402	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M402P2MS	M402	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M402P3MS	M402	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M415P1MS	M415	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M415P2MS	M415	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M415P3MS	M415	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M422P1MS	M422	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M422P2MS	M422	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M422P3MS	M422	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+M428P1MS	M428	M	S1	S	Male	Rhizosphere soil	S1M	S1 Male
+M428P2MS	M428	M	S2	S	Male	Rhizosphere soil	S2M	S2 Male
+M428P3MS	M428	M	S3	S	Male	Rhizosphere soil	S3M	S3 Male
+F361P1MR	F361	F	S1	R	Female	Root	S1F	S1 Female
+F361P2MR	F361	F	S2	R	Female	Root	S2F	S2 Female
+F361P3MR	F361	F	S3	R	Female	Root	S3F	S3 Female
+F367P1MR	F367	F	S1	R	Female	Root	S1F	S1 Female
+F367P2MR	F367	F	S2	R	Female	Root	S2F	S2 Female
+F367P3MR	F367	F	S3	R	Female	Root	S3F	S3 Female
+F368P1MR	F368	F	S1	R	Female	Root	S1F	S1 Female
+F368P2MR	F368	F	S2	R	Female	Root	S2F	S2 Female
+F368P3MR	F368	F	S3	R	Female	Root	S3F	S3 Female
+F396P1MR	F396	F	S1	R	Female	Root	S1F	S1 Female
+F396P2MR	F396	F	S2	R	Female	Root	S2F	S2 Female
+F396P3MR	F396	F	S3	R	Female	Root	S3F	S3 Female
+F397P1MR	F397	F	S1	R	Female	Root	S1F	S1 Female
+F397P2MR	F397	F	S2	R	Female	Root	S2F	S2 Female
+F397P3MR	F397	F	S3	R	Female	Root	S3F	S3 Female
+F398P1MR	F398	F	S1	R	Female	Root	S1F	S1 Female
+F398P2MR	F398	F	S2	R	Female	Root	S2F	S2 Female
+F398P3MR	F398	F	S3	R	Female	Root	S3F	S3 Female
+F405P1MR	F405	F	S1	R	Female	Root	S1F	S1 Female
+F405P2MR	F405	F	S2	R	Female	Root	S2F	S2 Female
+F405P3MR	F405	F	S3	R	Female	Root	S3F	S3 Female
+F406P1MR	F406	F	S1	R	Female	Root	S1F	S1 Female
+F406P2MR	F406	F	S2	R	Female	Root	S2F	S2 Female
+F406P3MR	F406	F	S3	R	Female	Root	S3F	S3 Female
+F416P1MR	F416	F	S1	R	Female	Root	S1F	S1 Female
+F416P2MR	F416	F	S2	R	Female	Root	S2F	S2 Female
+F416P3MR	F416	F	S3	R	Female	Root	S3F	S3 Female
+F427P1MR	F427	F	S1	R	Female	Root	S1F	S1 Female
+F427P2MR	F427	F	S2	R	Female	Root	S2F	S2 Female
+F427P3MR	F427	F	S3	R	Female	Root	S3F	S3 Female
+M354P1MR	M354	M	S1	R	Male	Root	S1M	S1 Male
+M354P2MR	M354	M	S2	R	Male	Root	S2M	S2 Male
+M354P3MR	M354	M	S3	R	Male	Root	S3M	S3 Male
+M365P1MR	M365	M	S1	R	Male	Root	S1M	S1 Male
+M365P2MR	M365	M	S2	R	Male	Root	S2M	S2 Male
+M365P3MR	M365	M	S3	R	Male	Root	S3M	S3 Male
+M373P1MR	M373	M	S1	R	Male	Root	S1M	S1 Male
+M373P2MR	M373	M	S2	R	Male	Root	S2M	S2 Male
+M373P3MR	M373	M	S3	R	Male	Root	S3M	S3 Male
+M376P1MR	M376	M	S1	R	Male	Root	S1M	S1 Male
+M376P2MR	M376	M	S2	R	Male	Root	S2M	S2 Male
+M376P3MR	M376	M	S3	R	Male	Root	S3M	S3 Male
+M377P1MR	M377	M	S1	R	Male	Root	S1M	S1 Male
+M377P2MR	M377	M	S2	R	Male	Root	S2M	S2 Male
+M377P3MR	M377	M	S3	R	Male	Root	S3M	S3 Male
+M395P1MR	M395	M	S1	R	Male	Root	S1M	S1 Male
+M395P2MR	M395	M	S2	R	Male	Root	S2M	S2 Male
+M395P3MR	M395	M	S3	R	Male	Root	S3M	S3 Male
+M402P1MR	M402	M	S1	R	Male	Root	S1M	S1 Male
+M402P2MR	M402	M	S2	R	Male	Root	S2M	S2 Male
+M402P3MR	M402	M	S3	R	Male	Root	S3M	S3 Male
+M415P1MR	M415	M	S1	R	Male	Root	S1M	S1 Male
+M415P2MR	M415	M	S2	R	Male	Root	S2M	S2 Male
+M415P3MR	M415	M	S3	R	Male	Root	S3M	S3 Male
+M422P1MR	M422	M	S1	R	Male	Root	S1M	S1 Male
+M422P2MR	M422	M	S2	R	Male	Root	S2M	S2 Male
+M422P3MR	M422	M	S3	R	Male	Root	S3M	S3 Male
+M428P1MR	M428	M	S1	R	Male	Root	S1M	S1 Male
+M428P2MR	M428	M	S2	R	Male	Root	S2M	S2 Male
+M428P3MR	M428	M	S3	R	Male	Root	S3M	S3 Male
